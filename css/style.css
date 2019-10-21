@@ -1,0 +1,10 @@
+body {
+    background-color: #1d2124;
+}
+.navbar {
+    color: #c69500;
+}
+.btn-outline-success {
+    color: #c69500;
+    border-color: #c69500;
+}
